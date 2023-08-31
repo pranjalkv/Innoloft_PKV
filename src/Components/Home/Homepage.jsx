@@ -20,7 +20,7 @@ function Homepage({dataLogo})
             <div className="absolute bottom-[5px] text-center w-full text-slate-500">
                 <p>Sample Project build by Pranjal Kumar for INNOLOFT</p>
                 <div>
-                <a href="https://github.com/" target="_blank">Github | </a>
+                <a href="https://github.com/pranjalkv/Innoloft_PKV" target="_blank">Github | </a>
                 <a href="https://pranjalkv.com" target="_blank">pranjalkv.com</a>
                 </div>
             </div>
