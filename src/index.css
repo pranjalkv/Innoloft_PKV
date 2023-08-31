@@ -1,0 +1,30 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: 0;
+  scroll-behavior: smooth;
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body
+{
+  background-color: #eff6fb;
+}
+@layer components 
+{
+  .max-container {
+    max-width: 1440px;
+    margin: 0 auto;
+  }
+}
+.quill
+{
+  width: 100%;
+  padding: 1%;
+}
+a:link ,a:visited ,a:hover ,a:active{
+text-decoration: none;
+}
